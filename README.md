@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Asrith1253
-- 👀 I’m interested in Drawing, Game-Development, Web-Development
-- 🌱 I’m currently learning Web development
+- 👀 interested in Drawing, Game-Development, Web-Development
 - 📫 How to reach me @asrith_45r17h(instagram)
 
 <!---
